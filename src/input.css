@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .text-red-1000 {
+        color: #FF0000;
+    }
+
+    .text-blue-1000 {
+        color: #0000FF;
+    }
+
+    .text-green-1000 {
+        color: #00FF00;
+    }
+
+    .text-yellow-1000 {
+        color: #FFFF00;
+    }
+
+    .bobo {
+        background-color: #FF0000;
+    }
+}
