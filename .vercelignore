@@ -1,0 +1,8 @@
+node_modules
+src/input.css
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
